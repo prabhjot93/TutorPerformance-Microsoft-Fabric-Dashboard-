@@ -1,6 +1,6 @@
 # TutorPerformance-PowerBi-Dashboard-
 
-This dashboard provides meaningful insights about training provider's performance level.It compares rating score of different tutors across intakes, training weeks, programs and uncovers trends in identifying overall session satisfaction and Net Performance Score.
+This dashboard provides meaningful insights about training provider's performance level. It compares rating score of different tutors across intakes, training weeks, programs and uncovers trends by identifying overall session's satisfaction rate. Calculated %detractors, %promotors, %passive and overall Net Performance Score.
 
 Please check full interactive dashboard by clicking on below link
  
