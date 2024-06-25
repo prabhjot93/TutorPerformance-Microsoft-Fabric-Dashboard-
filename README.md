@@ -8,4 +8,4 @@ Please check full interactive dashboard by clicking on below link.
 
  
 
-Currently working on Microsoft fabric to utilise Live data to develop Tutor Performance Dashboard.
+Currently, working on Live data and developing an end-to-end solution for ‘Performance Dashboard’ project.Especially, using Microsoft Fabric for data processing and data integration pipeline to ensure continuous flow for the dashboard.
