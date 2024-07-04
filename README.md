@@ -16,3 +16,5 @@ Please check full interactive dashboard by clicking on below link.
 
 [Click here](https://app.powerbi.com/reportEmbed?reportId=d6c31d66-9469-4eb0-b026-1d12024826e7&autoAuth=true&ctid=3055ffdb-579d-422d-9190-1738274dc794)
 https://app.powerbi.com/reportEmbed?reportId=d6c31d66-9469-4eb0-b026-1d12024826e7&autoAuth=true&ctid=3055ffdb-579d-422d-9190-1738274dc794
+
+[Click Here](https://app.powerbi.com/reportEmbed?reportId=d6c31d66-9469-4eb0-b026-1d12024826e7&autoAuth=true&ctid=3055ffdb-579d-422d-9190-1738274dc794)
