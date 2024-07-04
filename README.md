@@ -13,3 +13,6 @@ Please check full interactive dashboard by clicking on below link.
 
  
 [(https://app.powerbi.com/view?r=eyJrIjoiNjRiOWUyNTUtZTMwNi00ODliLWI1OTktYzBiZWYyYmQ3Y2E2IiwidCI6ImE4ZDQ4NGQ1LTI5OGUtNDgyMy04NjQ5LWI1MDk0MzM0ODlmZiJ9)](https://app.powerbi.com/reportEmbed?reportId=d6c31d66-9469-4eb0-b026-1d12024826e7&autoAuth=true&ctid=3055ffdb-579d-422d-9190-1738274dc794)
+
+[Click here](https://app.powerbi.com/reportEmbed?reportId=d6c31d66-9469-4eb0-b026-1d12024826e7&autoAuth=true&ctid=3055ffdb-579d-422d-9190-1738274dc794)
+https://app.powerbi.com/reportEmbed?reportId=d6c31d66-9469-4eb0-b026-1d12024826e7&autoAuth=true&ctid=3055ffdb-579d-422d-9190-1738274dc794
